@@ -93,9 +93,9 @@ body {
 }
   
 .link a img {
-  width: 26px; /* Adjust size as needed */
+  width: 26px; 
   height: 26px;
-  margin-right: 12px; /* Space between logo and text */
+  margin-right: 12px; 
 }
   
 .link a:hover {
@@ -123,10 +123,6 @@ body {
 {
   html {
     max-width: 100vw;
-  }
-
-  body {
-    background-image: url("background-smartphone.jpg");
   }
 
   .non-footer {
@@ -167,10 +163,6 @@ body {
 {
   html {
     max-width: 100vw;
-  }
-
-  body {
-    background-image: url("background-tablet.jpg");
   }
 
   .non-footer {
